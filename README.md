@@ -1,3 +1,9 @@
+A slight variation of the game Wordle! 
+
+This version offers the original 5 letter word but also 6, 7 and 8 letter word challenges!
+You can refresh to reset the word.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
